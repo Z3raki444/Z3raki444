@@ -1,4 +1,4 @@
-## 👋 Hey there! I’m Preveenkumar
+## 👋 Hey there! I’m Praveenkumar
 
 
 🎓 MSc Computer Science @ IU Berlin
