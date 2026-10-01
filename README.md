@@ -2,57 +2,77 @@
 
 Computer Science graduate with a **B.Tech in Computer Science** and an **M.Sc. in Computer Science from IU International University, Berlin**.
 
-I am building my career around two areas:
+I am focused on building my career in:
 
 - 🤖 **Machine Learning / AI Engineering**
 - 🛠️ **Data Engineering**
 
-I enjoy building practical systems that turn data into useful applications — from data cleaning and analysis to machine-learning models and real-time computer-vision projects.
+I enjoy building data-driven applications, machine-learning systems, data pipelines, and practical software projects using Python.
 
-## Core Skills
+## 🧰 Technical Skills
 
-**Programming:** Python, SQL  
-**ML / Data:** PyTorch, Pandas, NumPy, scikit-learn, OpenCV  
+**Languages:** Python, SQL  
+**Machine Learning:** PyTorch, scikit-learn, OpenCV  
+**Data:** Pandas, NumPy, exploratory data analysis  
 **Databases:** SQLite, relational database design  
-**Tools:** Git, GitHub, Jupyter Notebook, VS Code  
+**Development Tools:** Git, GitHub, Jupyter Notebook, VS Code  
 
-**Currently expanding:** PostgreSQL, Docker, Apache Airflow, dbt, cloud data engineering and MLOps.
+### Currently Learning
 
-## Featured Projects
+PostgreSQL · Docker · Apache Airflow · dbt · ETL/ELT pipelines · Cloud Data Engineering · MLOps
 
-### 🤟 Real-Time Sign Language Translation
-Real-time ASL alphabet recognition using **PyTorch, OpenCV and a custom CNN**.
+---
 
-[View project](https://github.com/Z3raki444/Real-Time-sign-language-Translation)
+## 🚀 Featured Projects
 
-### 📊 Python Data Normalization, Matching & Classification
-End-to-end Python data-processing project using **Pandas, SQLAlchemy, SQLite, statistical normalization, classification and testing**.
+### 🤟 Real-Time Sign Language Recognition
+Real-time ASL alphabet recognition system built using **PyTorch, OpenCV, and a custom Convolutional Neural Network (CNN)**.
 
-[View project](https://github.com/Z3raki444/IUSMESTER_PROJECT)
+- Real-time webcam inference
+- Custom CNN model
+- Image preprocessing and classification
+- Computer vision pipeline
 
-### 🧹 SQL Data Cleaning — Layoffs Dataset
-SQL-based data-cleaning workflow covering duplicate handling, standardization, missing values and preparation of analysis-ready data.
+[View Project](https://github.com/Z3raki444/Real-Time-sign-language-Translation)
 
-[View project](https://github.com/Z3raki444/Data_cleaning_Layoffs)
+---
+
+### 📊 Data Normalization, Matching & Classification Pipeline
+Python-based data-processing project that performs normalization, mathematical function matching, classification, visualization, and database storage.
+
+**Technologies:** Python · Pandas · SQLAlchemy · SQLite · Matplotlib · Unit Testing
+
+[View Project](https://github.com/Z3raki444/IUSMESTER_PROJECT)
+
+---
 
 ### 🌍 Global Suicide Rates — Exploratory Data Analysis
-Exploratory analysis using **Python, Pandas, NumPy and visualization** to study demographic, temporal and economic patterns.
+Exploratory data analysis of global suicide statistics to study demographic, temporal, geographic, and economic patterns.
 
-[View project](https://github.com/Z3raki444/Global-Suicide-Rates-Analysis-EDA)
+**Technologies:** Python · Pandas · NumPy · Matplotlib · Jupyter Notebook
 
-## What I'm Working On
+[View Project](https://github.com/Z3raki444/Global-Suicide-Rates-Analysis-EDA)
 
-I am currently strengthening my portfolio with production-oriented projects involving:
+---
 
-- ETL / ELT pipelines
+## 🔨 Currently Building
+
+I am currently developing more production-oriented projects involving:
+
+- ETL / ELT data pipelines
 - PostgreSQL
-- workflow orchestration
-- data modelling
-- model deployment
-- Docker and cloud platforms
+- Workflow orchestration
+- Data modelling
+- Machine-learning deployment
+- Docker
+- Cloud platforms
 
-## Career Focus
+My next major project is an **end-to-end Data Engineering pipeline** combining ingestion, PostgreSQL, orchestration, transformation, and analytics.
 
-I am interested in opportunities such as:
+---
 
-**Junior Machine Learning Engineer · AI Engineer · Junior Data Engineer**
+## 🎯 Career Focus
+
+I am currently interested in opportunities as a:
+
+**Machine Learning Engineer · AI Engineer · Data Engineer**
