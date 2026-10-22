@@ -1,78 +1,40 @@
 # Hi, I'm Praveenkumar 👋
 
-Computer Science graduate with a **B.Tech in Computer Science** and an **M.Sc. in Computer Science from IU International University, Berlin**.
+**Data Engineering · Python · SQL · Machine Learning**
 
-I am focused on building my career in:
+I build data pipelines, reproducible analytics workflows, and practical software projects. My portfolio focuses on **Python ETL, SQL, databases, Docker, Apache Airflow, dbt, and interactive analytics**.
 
-- 🤖 **Machine Learning / AI Engineering**
-- 🛠️ **Data Engineering**
+## Featured data engineering projects
 
-I enjoy building data-driven applications, machine-learning systems, data pipelines, and practical software projects using Python.
+| Project | What it demonstrates | Technologies |
+| --- | --- | --- |
+| [German Transit Analytics](https://github.com/Z3raki444/german-transit-analytics) | Batch GTFS ingestion, validation, relational modelling, dbt analytics views, interactive station dashboard | Python, PostgreSQL, Airflow, dbt, Docker, Streamlit |
+| [Weather Data Pipeline](https://github.com/Z3raki444/weather-data-pipeline) | Scheduled API extraction, Pandas transformation and idempotent PostgreSQL upserts | Python, Pandas, Airflow, PostgreSQL, Docker |
+| [SQL Layoffs Data Cleaning](https://github.com/Z3raki444/Data_cleaning_Layoffs) | SQL staging, window functions, deduplication, standardization and data-quality checks | MySQL, SQL |
+| [Data Normalization & Matching](https://github.com/Z3raki444/IUSMESTER_PROJECT) | CSV-to-SQLite workflow, normalization, matching, classification and unit tests | Python, Pandas, SQLAlchemy, SQLite |
 
-## 🧰 Technical Skills
+## Additional projects
 
-**Languages:** Python, SQL  
-**Machine Learning:** PyTorch, scikit-learn, OpenCV  
-**Data:** Pandas, NumPy, exploratory data analysis  
-**Databases:** SQLite, relational database design  
-**Development Tools:** Git, GitHub, Jupyter Notebook, VS Code  
+- [Global Suicide Rates EDA](https://github.com/Z3raki444/Global-Suicide-Rates-Analysis-EDA) — Jupyter data exploration, population-normalized comparisons and visualization
+- [Cheap Flights CLI](https://github.com/Z3raki444/cheap-flights) — Python command-line search wrapper with multi-date lookup logic
+- [SkillSwap](https://github.com/Z3raki444/skill_swap) — full-stack student skill exchange application with SQLite
+- [Spam Email Detection](https://github.com/Z3raki444/Spam_Email_Detection) — TF-IDF and Naive Bayes text classification
+- [ASL Alphabet Recognition](https://github.com/Z3raki444/Real-Time-sign-language-Translation) — TensorFlow/Keras MobileNetV2 image classifier and OpenCV webcam inference
 
-### Currently Learning
+## Technology toolkit
 
-PostgreSQL · Docker · Apache Airflow · dbt · ETL/ELT pipelines · Cloud Data Engineering · MLOps
+**Data engineering:** Python · SQL · PostgreSQL · MySQL · Apache Airflow · dbt · Docker Compose · ETL/ELT · data-quality checks
 
----
+**Data and analytics:** Pandas · NumPy · Jupyter · Streamlit · Plotly · Matplotlib
 
-## 🚀 Featured Projects
+**ML and applications:** scikit-learn · TensorFlow/Keras · OpenCV · Node.js · Express · SQLite
 
-### 🤟 Real-Time Sign Language Recognition
-Real-time ASL alphabet recognition system built using **PyTorch, OpenCV, and a custom Convolutional Neural Network (CNN)**.
+**Development:** Git · GitHub · GitHub Actions · VS Code
 
-- Real-time webcam inference
-- Custom CNN model
-- Image preprocessing and classification
-- Computer vision pipeline
+## How to explore my work
 
-[View Project](https://github.com/Z3raki444/Real-Time-sign-language-Translation)
+Start with the [German Transit Analytics repository](https://github.com/Z3raki444/german-transit-analytics) for an end-to-end data pipeline and dashboard. The [Weather Data Pipeline](https://github.com/Z3raki444/weather-data-pipeline) is a smaller example of scheduled API ingestion and PostgreSQL upserts.
 
----
+These repositories are educational and portfolio projects, with documented limitations and evolving automated test coverage. I distinguish timetable data from real-time train operations and demo systems from production deployments.
 
-### 📊 Data Normalization, Matching & Classification Pipeline
-Python-based data-processing project that performs normalization, mathematical function matching, classification, visualization, and database storage.
-
-**Technologies:** Python · Pandas · SQLAlchemy · SQLite · Matplotlib · Unit Testing
-
-[View Project](https://github.com/Z3raki444/IUSMESTER_PROJECT)
-
----
-
-### 🌍 Global Suicide Rates — Exploratory Data Analysis
-Exploratory data analysis of global suicide statistics to study demographic, temporal, geographic, and economic patterns.
-
-**Technologies:** Python · Pandas · NumPy · Matplotlib · Jupyter Notebook
-
-[View Project](https://github.com/Z3raki444/Global-Suicide-Rates-Analysis-EDA)
-
----
-
-## 🔨 Currently Building
-
-I am currently developing more production-oriented projects involving:
-
-- ETL / ELT data pipelines
-- PostgreSQL
-- Workflow orchestration
-- Data modelling
-- Machine-learning deployment
-- Docker
-- Cloud platforms
-
-My next major project is an **end-to-end Data Engineering pipeline** combining ingestion, PostgreSQL, orchestration, transformation, and analytics.
-
----
-
-## 🎯 Career Focus
-
-I am currently interested in opportunities as a:
-
-**Machine Learning Engineer · AI Engineer · Data Engineer**
+**Career focus:** Data Engineer / Junior Data Engineer roles, while continuing to build skills in cloud services and reliable data pipelines.
